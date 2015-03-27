@@ -31,6 +31,7 @@ body, html{
   overflow-y: auto;
   overflow-x: hidden;
   font-family: 'Lato', sans-serif;
+  color:#374140;
 }
 @media (min-width: 1200px){
 	.container {
@@ -45,6 +46,8 @@ h1{
 h2{
 	text-transform: uppercase;
 	font-size: 20px;
+	font-weight:600;
+	letter-spacing:4px;
 }
 h3{
 	font-size: 14px;
@@ -70,8 +73,17 @@ h6{
 	letter-spacing: 2px;
 }
 
+.call-out{
+  font-size: 20px;
+  font-weight: 800;
+  letter-spacing: 2px;
+  word-spacing: 5px;
+}
+
 p{
 	font-weight: 400;
+	font-size:16px;
+    line-height:25px;
 }
 hr{
 	width: 50px;
@@ -108,10 +120,14 @@ a:focus{
 	padding-top: 16%;
 }
 .header-text.btn{
-	border: 1px solid #ffffff;
-	border-radius: 0;
 	padding: 10px 30px;
+	border-radius:0;
 	height: 100px;
+	background-color:rgba(255,255,255,0.8)
+}
+
+.header-text h1{
+	color:#374140;
 }
 .header-text.btn:hover{
 	color: inherit;
