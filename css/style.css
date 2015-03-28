@@ -87,12 +87,12 @@ p{
 }
 hr{
 	width: 50px;
-	border-color: #c59a6d;
+	border-color: #68a3ae;
 }
 a {color: #222222}
 a:hover,
 a:focus{
-	color: #c59a6d;
+	color: #68a3ae;
 	text-decoration: none;
 }
 #home{
@@ -108,7 +108,7 @@ a:focus{
 }
 #home a.down-btn span.fa.fa-angle-down {
 	font-size: 26px;
-	border: 1px solid #c59a6d;
+	border: 3px solid #fff;
 	border-radius: 2px;
 	padding: 7px 5px;
 	position: relative;
@@ -186,7 +186,7 @@ nav#menu span.fa.fa-bars{
 	font-size: 30px;
 	position: fixed;
 	left: 120px;
-	color: #c0c0c0;
+	color: #374140;
 	cursor: pointer;
 	z-index: 1;
 }
@@ -205,7 +205,7 @@ z-index: 10;
 .navbar-default .navbar-offcanvas .navmenu-nav>li>a:hover,
 .navmenu-default .navmenu-nav>li>a:focus,
 .navbar-default .navbar-offcanvas .navmenu-nav>li>a:focus {
-color: #C59A6D;
+color: #68a3ae;
 background-color: transparent;
 }
 .nav > li {
@@ -221,7 +221,7 @@ font-size: 12px;
 line-height: 30px;
 }
 nav#menu span.fa.fa-bars:hover {
-color: #C59A6D;
+color: #68a3ae;
 }
 .navmenu-default .navmenu-nav>.active>a,
 .navbar-default .navbar-offcanvas .navmenu-nav>.active>a,
@@ -229,12 +229,12 @@ color: #C59A6D;
 .navbar-default .navbar-offcanvas .navmenu-nav>.active>a:hover,
 .navmenu-default .navmenu-nav>.active>a:focus,
 .navbar-default .navbar-offcanvas .navmenu-nav>.active>a:focus {
-color: #C59A6D;
+color: #68a3ae;
 background-color: transparent;
 }
 
 .close:hover{
-	background: #c59a6d;
+	background: #68a3ae;
 	color: #ffffff;
 	opacity: 1;
 }
@@ -257,12 +257,12 @@ background-color: transparent;
 
 a.down-btn span.fa.fa-angle-down {
 	font-size: 26px;
-	border: 1px solid #c59a6d;
+	border: 1px solid #68a3ae;
 	border-radius: 2px;
 	padding: 7px 5px;
 	position: relative;
 	cursor: pointer;
-	color: #c59a6d;
+	color: #68a3ae;
 	margin-top: 30px;
 }
 
@@ -309,10 +309,10 @@ a.down-btn span.fa.fa-angle-down {
 }
 .service:hover>h4,
 .service:hover>span.fa{
-	color: #c59a6d;
+	color: #68a3ae;
 }
 .service:hover{
-	border-color: #c59a6d;
+	border-color: #68a3ae;
 	margin-top: 0px;
 	margin-bottom: 0px;
 	cursor: pointer;
@@ -333,7 +333,7 @@ a.down-btn span.fa.fa-angle-down {
 
 a.btn.go-to-btn{
 	text-transform: uppercase;
-	border: 1px solid #c59a6d;
+	border: 1px solid #68a3ae;
 	word-spacing: 2px;
 	padding: 7px 30px;
 	border-radius: 2px;
@@ -342,7 +342,7 @@ a.btn.go-to-btn{
 	transition: all 0.5s;
 }
 a.btn.go-to-btn:hover{
-	background: #c59a6d;
+	background: #68a3ae;
 	color: #282f35;
 }
 
@@ -404,13 +404,13 @@ a.btn.go-to-btn:hover{
 }
 
 .hover-text p.lead{
-	color: #c59a6d;
+	color: #68a3ae;
 }
 
 
 a.btn.read-more-btn{
 	text-transform: uppercase;
-	background: #c59a6d;
+	background: #68a3ae;
 	color: #282f35;
 	word-spacing: 2px;
 	padding: 7px 30px;
@@ -426,7 +426,7 @@ a.btn.read-more-btn:hover{
 
 a.btn.send-btn{
 	text-transform: uppercase;
-	background: #c59a6d;
+	background: #68a3ae;
 	color: #282f35;
 	padding: 15px 35px;
 	border-radius: 0;
@@ -436,7 +436,7 @@ a.btn.send-btn{
 }
 a.btn.send-btn:hover{
 	background: transparent;
-	border: 1px solid #c59a6d;
+	border: 1px solid #68a3ae;
 	color: #ffffff;
 }
 
@@ -489,13 +489,13 @@ ul.clients li{
 .team:hover.hire,
 .team.hire{
 	height: 340px;
-	border-color: #c59a6d;
-	color: #c59a6d;
+	border-color: #68a3ae;
+	color: #68a3ae;
 	opacity: 1;
 }
 
 .team.hire>a{
-	color: #c59a6d;
+	color: #68a3ae;
 }
 .team hr{
 	border-width: 2px;
@@ -537,7 +537,7 @@ ul.clients li{
 	-webkit-border-radius: 20px;
 	-moz-border-radius: 20px;
 	border-radius: 0;
-	background: #C59A6D;
+	background: #68a3ae;
 }
 
 #contact{
@@ -570,7 +570,7 @@ address:before{
   	text-rendering: auto;
   	-webkit-font-smoothing: antialiased;
   	-moz-osx-font-smoothing: grayscale;
-  	color: #c59a6d;
+  	color: #68a3ae;
   	vertical-align: middle;
   	margin-right: 15px;
   	margin-left: -30px;
@@ -609,7 +609,7 @@ margin-bottom: 30px;
 }
 
 #contact .form-control:focus {
-	border-color: #C59A6D;
+	border-color: #68a3ae;
 	outline: 0;
 	-webkit-box-shadow: none;
 	box-shadow: none;
@@ -647,10 +647,10 @@ nav#footer{
 	background: #282f35;
 	padding: 40px 0;
 	color: #ffffff;
-	border-bottom: 5px solid #c59a6d;
+	border-bottom: 5px solid #68a3ae;
 }
 #footer span.fa{
-	color: #c59a6d;
+	color: #68a3ae;
 	font-size: 26px;
 	margin-left: 10px;
 }
@@ -658,4 +658,4 @@ nav#footer{
 	color: #ffffff;
 }
 #footer a:hover{
-	color: #c59a6d;}
+	color: #68a3ae;}
